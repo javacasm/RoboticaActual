@@ -21,6 +21,17 @@
 
 ![miniKame](https://camo.githubusercontent.com/6b66f157b05d8f291f3898e9e3e6d6628e784438/687474703a2f2f63646e2e6d616b65616769662e636f6d2f6d656469612f31322d32322d323031352f4d51387a316e2e676966)
 
+## Robótica en los colegios
+
+* Extraescolares
+
+  * Antes 100% Lego: una herramienta fantástia pero cara y cerrado
+
+  * Escornabot
+  * SkyBot
+
+* En las aulas
+
 
 ## Recursos
 
