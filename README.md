@@ -1,5 +1,10 @@
 # Robótica Actual
 
+## Instituto Virgen de las Nieves
+
+## 18 de Febrero de 2016
+
+![CC](./images/Licencia_CC.png)
 
 ## ¿Un robot que juega al Hockey de aire?
 
@@ -34,8 +39,19 @@
 
 ## Automatismos
 
-Android PLC
+Arduino PLC
 
+![plc](./images/arduinoPLC.jpg)
+
+[Winkhel](http://www.electan.com/miniautomata-plc-arduino-winkhel-p-3273.html)
+
+![plc2](./images/PLC-ARDUINO-ARDBOX-ANALOG-20-1-247x300.jpg)
+
+[Industrial Shields](http://www.industrialshields.com/)
+
+![controlino](./images/HD06157-2-500x333.jpg)
+
+[Controllino](http://controllino.cc/)
 
 ## Recursos
 
