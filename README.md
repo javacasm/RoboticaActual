@@ -39,7 +39,7 @@
 
 ## Automatismos
 
-Arduino PLC
+### Arduino vs PLC
 
 ![plc](./images/arduinoPLC.jpg)
 
@@ -53,8 +53,9 @@ Arduino PLC
 
 [Controllino](http://controllino.cc/)
 
-## Recursos
+### [Raspberry](./raspberry/charla.md)
 
+## Recursos
 
 * Movimiento open source
   * Open source: Una historia de éxitos
@@ -69,8 +70,8 @@ Arduino PLC
   * Open Hardware
     * [Arduino](http://arduino.cc)
     * [Raspberry](http://raspberry.org)
-    * ESP8266
-    * FPGA
+    * [ESP8266](http://www.esp8266.com/)
+    * [FPGA](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki)
     * Impresoras 3D  
       * [Movimiento RepRap](http://reprap.org)
     * Scanner 3D
